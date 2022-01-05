@@ -1,0 +1,15 @@
+.list-wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0 !important;
+	margin: auto 0;
+}
+
+.delete-icon {
+	cursor: pointer;
+	margin-right: 15px;
+}
+.listItem {
+	max-width: 300px;
+}
